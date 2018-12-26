@@ -3,6 +3,8 @@
 Created on Fri Nov 23 13:22:13 2018
 
 @author: Daniel
+
+First uploaded version. Sorry I am new to version checking
 """
 
 import pygame
